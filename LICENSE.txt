@@ -1,0 +1,16 @@
+European Union Public License 1.2 (EUPL-1.2)
+
+This work is licensed under the EUPL-1.2. You can view the full license at http://eupl.eu/.
+
+You are free to:
+- Use, reproduce, and distribute the work.
+- Modify the original work and distribute modified works.
+
+The obligations are:
+- Attribution: Credit the original author(s).
+- Distribution of derivative works under the same license.
+- Keep intact all notices that refer to this License and to the disclaimer of warranties.
+
+No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+
+For the full license text, please visit: http://eupl.eu/

@@ -1,0 +1,11 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.nupkg
+*.snupkg
+BenchmarkDotNet.Artifacts/
+artifacts/
+.idea/
+.vscode/
