@@ -1,5 +1,7 @@
 # arcgis-runtime-200-vs-300-benchmarks
 
+**Key Result**: ArcGIS Runtime **300.0.0 is 6–15% faster** on geometry and graphics workloads with virtually identical memory usage.
+
 ## One-sentence goal
 Measure ArcGIS Runtime 200.x vs 300.x core operation performance using isolated benchmark projects with identical workloads.
 
